@@ -2,3 +2,4 @@
 
 Modificação
 modificação Gabi
+modificação VsCode sem terminal
